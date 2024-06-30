@@ -1,5 +1,5 @@
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
-- Artimis Financial is a company that stores privilaged personal financial information for clients. The company wanted their application's security to be tested and any issues resolved.
+- Artemis Financial is a company that stores privilaged personal financial information for clients. The company wanted their application's security to be tested and any issues resolved.
 What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 - I ran dependancies to find vulnerabilities in the application. These were resolved by updating vulnerable versions to a newer and more secure version. The companies overall well-being is greatly enhanced by increases in security and the implementation of a cypher to protect sensitive data.
 Which part of the vulnerability assessment was challenging or helpful to you?
